@@ -38,10 +38,10 @@ File Processing
 - Text is split into chunks to improve processing efficiency. This is done using a custom CharacterTextSplitter class.
 
 Vector Store Creation
-A vector store is created from the text chunks using Hugging Face embeddings and FAISS.
+- A vector store is created from the text chunks using Hugging Face embeddings and FAISS.
 
 Conversation Chain
-A conversation chain is created using a combination of a vector store and an OpenAI API key. The chain allows for conversational interactions with the AI agent.
+- A conversation chain is created using a combination of a vector store and an OpenAI API key. The chain allows for conversational interactions with the AI agent.
 
 LAMMPS Simulation
 - Paste your LAMMPS input script into the provided text area.
