@@ -155,7 +155,6 @@ def get_text_chunks(text):
     Returns:
         list: List of text chunks.
     """
-    # spilit ito chuncks
     text_splitter = CharacterTextSplitter(
         separator="\n",
         chunk_size=900,
@@ -215,7 +214,6 @@ def handel_userinput(user_question):
         response = st.session_state.conversation({'question':user_question})
     st.session_state.chat_history = response['chat_history']
 
-    # Layout of input/response containers
     response_container = st.container()
 
     with response_container:
