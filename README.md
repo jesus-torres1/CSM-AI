@@ -1,4 +1,15 @@
 AI Agent CSM
+
+This a project with the goal of developing an AI agent specialized in computational soft matter research. 
+
+This agent will have dual functions:
+
+To perform in-depth literature reviews, identifying cutting-edge developments and emerging trends in the field.
+
+To assist researchers by suggesting innovative research problems, grounded in the latest academic findings.
+
+To be equipped to autonomously execute and manage complex simulations, thereby accelerating the research process and fostering groundbreaking discoveries in computational soft matter.
+
 This Streamlit app allows users to upload files, process them, run a LAMMPS simulation, and chat with an AI agent. The app utilizes various libraries and tools, including Streamlit, PyPDF2, docx, subprocess, OpenAI, Hugging Face, and more.
 
 Setup
