@@ -16,8 +16,6 @@ from streamlit_chat import message
 from langchain.callbacks import get_openai_callback
 
 
-
-# "with" notation
 def main():
     """
     Sets up the Streamlit app and handles user interactions.
