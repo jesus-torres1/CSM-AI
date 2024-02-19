@@ -22,7 +22,7 @@ pip install streamlit PyPDF2 python-docx langchain streamlit-chat python-dotenv
 Running the App
 
 1. Run the Streamlit app using:
-streamlit run ai-agent-csm.py
+streamlit run main.py
 
 2. Upload your files (PDF or DOCX).
 
