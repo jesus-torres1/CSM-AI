@@ -35,7 +35,7 @@ streamlit run main.py
 File Processing
 - PDF files are processed using PyPDF2 to extract text.
 - DOCX files are processed using the python-docx library to extract text.
-- CSV files are currently not supported.
+- CSV files are supported.
 - Text Chunking
 - Text is split into chunks to improve processing efficiency. This is done using a custom CharacterTextSplitter class.
 
