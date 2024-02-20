@@ -19,7 +19,7 @@ pip install streamlit PyPDF2 python-docx langchain streamlit-chat python-dotenv
 
 2. Ensure you have the necessary APIs and keys for OpenAI and Hugging Face.
 
-3. Make sure you have installed on your computer the Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) program
+3. Make sure you have installed on your system the Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) program
    
 Running the App
 
