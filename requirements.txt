@@ -1,0 +1,8 @@
+streamlit==1.5.0
+python-dotenv==0.19.1
+PyPDF2==1.26.0
+python-docx==0.2.5
+openai==0.12.6
+langchain==0.1.0
+faiss-cpu==1.7.1
+python-csv 0.0.13
