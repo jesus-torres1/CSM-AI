@@ -1,4 +1,4 @@
-Computational Soft Matter Research AI (CSM AI) Interface
+Computational Soft Matter Research AI Personal Agent (CSM AI)
 
 This a personnal project with the goal of developing an AI agent specialized in computational soft matter research. 
 
