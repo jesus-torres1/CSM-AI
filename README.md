@@ -15,9 +15,9 @@ This Streamlit app allows users to upload files, process them, run a LAMMPS simu
 ## Setup
 
 1. Install the required packages:
-pip install streamlit PyPDF2 python-docx langchain streamlit-chat python-dotenv
+pip install -r requirements.txt
 
-2. Ensure you have the necessary APIs and keys for OpenAI and Hugging Face.
+2. Ensure you have the necessary API key for OpenAI.
 
 3. Make sure you have installed on your system the Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) program
    
